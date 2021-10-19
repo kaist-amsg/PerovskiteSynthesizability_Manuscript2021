@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AcHgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81698514
+_cell_length_b   6.68026027
+_cell_length_c   8.23058745
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcHgO3
+_chemical_formula_sum   'Ac4 Hg4 O12'
+_cell_volume   319.83218983
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.97511853  0.09287512  0.24999917  1
+  Ac  Ac1  1  0.52488186  0.59287510  0.24999917  1
+  Ac  Ac2  1  0.47511725  0.40712486  0.74999993  1
+  Ac  Ac3  1  0.02488231  0.90712484  0.74999993  1
+  Hg  Hg4  1  0.49999956  0.00000000  0.00000000  1
+  Hg  Hg5  1  0.00000000  0.49999998  0.00000000  1
+  Hg  Hg6  1  0.49999956  0.00000000  0.50000076  1
+  Hg  Hg7  1  0.00000000  0.49999998  0.50000076  1
+  O  O8  1  0.69825518  0.33787007  0.05783427  1
+  O  O9  1  0.80174693  0.83787005  0.05783427  1
+  O  O10  1  0.12334568  0.45664388  0.24999917  1
+  O  O11  1  0.37665388  0.95664386  0.24999917  1
+  O  O12  1  0.69825518  0.33787007  0.44216649  1
+  O  O13  1  0.80174693  0.83787005  0.44216649  1
+  O  O14  1  0.19825390  0.16212841  0.55783382  1
+  O  O15  1  0.30174566  0.66212839  0.55783382  1
+  O  O16  1  0.62334524  0.04335759  0.74999993  1
+  O  O17  1  0.87665343  0.54335757  0.74999993  1
+  O  O18  1  0.19825390  0.16212841  0.94216483  1
+  O  O19  1  0.30174566  0.66212839  0.94216483  1

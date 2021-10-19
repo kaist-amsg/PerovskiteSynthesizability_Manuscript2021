@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CuSeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94606621
+_cell_length_b   7.22832689
+_cell_length_c   5.27426072
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSeO3
+_chemical_formula_sum   'Cu4 Se4 O12'
+_cell_volume   226.68830749
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.49999948  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.49999948  0.49999952  0.00000000  1
+  Cu  Cu2  1  0.00000000  0.00000000  0.49999993  1
+  Cu  Cu3  1  0.00000000  0.49999952  0.49999993  1
+  O  O4  1  0.80123225  0.56792811  0.10069468  1
+  O  O5  1  0.80123225  0.93207185  0.10069468  1
+  O  O6  1  0.56282757  0.24999976  0.15928867  1
+  O  O7  1  0.06282809  0.24999976  0.34071126  1
+  O  O8  1  0.30123277  0.56792811  0.39930525  1
+  O  O9  1  0.30123277  0.93207185  0.39930525  1
+  O  O10  1  0.69876787  0.06792858  0.60069461  1
+  O  O11  1  0.69876787  0.43207094  0.60069461  1
+  O  O12  1  0.93717086  0.75000067  0.65928861  1
+  O  O13  1  0.43717138  0.75000067  0.84071119  1
+  O  O14  1  0.19876671  0.06792858  0.89930518  1
+  O  O15  1  0.19876671  0.43207094  0.89930518  1
+  Se  Se16  1  0.03043861  0.24999976  0.00134616  1
+  Se  Se17  1  0.53043809  0.24999976  0.49865377  1
+  Se  Se18  1  0.46956255  0.75000067  0.50134609  1
+  Se  Se19  1  0.96956203  0.75000067  0.99865370  1

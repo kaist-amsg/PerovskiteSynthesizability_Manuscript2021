@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_DyCuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20533684
+_cell_length_b   5.85989154
+_cell_length_c   7.18907578
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCuO3
+_chemical_formula_sum   'Dy4 Cu4 O12'
+_cell_volume   219.28628871
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000030  0.00000000  0.00000000  1
+  Cu  Cu1  1  0.00000000  0.50000072  0.00000000  1
+  Cu  Cu2  1  0.50000030  0.00000000  0.50000029  1
+  Cu  Cu3  1  0.00000000  0.50000072  0.50000029  1
+  Dy  Dy4  1  0.97524140  0.09381402  0.25000015  1
+  Dy  Dy5  1  0.52475951  0.59381474  0.25000015  1
+  Dy  Dy6  1  0.47524110  0.40618670  0.75000044  1
+  Dy  Dy7  1  0.02475920  0.90618571  0.75000044  1
+  O  O8  1  0.70761415  0.33172798  0.05015387  1
+  O  O9  1  0.79238676  0.83172870  0.05015387  1
+  O  O10  1  0.11198507  0.46673048  0.25000015  1
+  O  O11  1  0.38801524  0.96672950  0.25000015  1
+  O  O12  1  0.70761415  0.33172798  0.44984642  1
+  O  O13  1  0.79238676  0.83172870  0.44984642  1
+  O  O14  1  0.20761385  0.16827103  0.55015417  1
+  O  O15  1  0.29238646  0.66827175  0.55015417  1
+  O  O16  1  0.61198537  0.03327024  0.75000044  1
+  O  O17  1  0.88801554  0.53326926  0.75000044  1
+  O  O18  1  0.20761385  0.16827103  0.94984532  1
+  O  O19  1  0.29238646  0.66827175  0.94984532  1

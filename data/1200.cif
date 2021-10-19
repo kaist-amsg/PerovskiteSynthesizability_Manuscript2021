@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.86811200
+_cell_length_b   5.12117900
+_cell_length_c   7.33976900
+_cell_angle_alpha   89.99993521
+_cell_angle_beta   89.99996085
+_cell_angle_gamma   89.99852011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlFeO3
+_chemical_formula_sum   'Al4 Fe4 O12'
+_cell_volume   182.98391244
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000000  0.50000100  0.00000000  1
+  Al  Al1  1  0.00000000  0.50000100  0.50000000  1
+  Al  Al2  1  0.50000100  0.00000000  0.00000000  1
+  Al  Al3  1  0.50000100  0.00000000  0.50000000  1
+  Fe  Fe4  1  0.47628500  0.43692600  0.75000200  1
+  Fe  Fe5  1  0.52371500  0.56307100  0.24999900  1
+  Fe  Fe6  1  0.02374100  0.93691800  0.75000300  1
+  Fe  Fe7  1  0.97626000  0.06307600  0.25000000  1
+  O  O8  1  0.13832900  0.43651100  0.25000000  1
+  O  O9  1  0.36167200  0.93650000  0.25000000  1
+  O  O10  1  0.63832800  0.06350200  0.75000000  1
+  O  O11  1  0.86167100  0.56348900  0.74999900  1
+  O  O12  1  0.19002900  0.19364900  0.57166500  1
+  O  O13  1  0.19002900  0.19364800  0.92833600  1
+  O  O14  1  0.30997700  0.69364700  0.92833200  1
+  O  O15  1  0.30997600  0.69364800  0.57166700  1
+  O  O16  1  0.69002300  0.30635300  0.07166800  1
+  O  O17  1  0.69002300  0.30635400  0.42833300  1
+  O  O18  1  0.80997000  0.80635300  0.07166300  1
+  O  O19  1  0.80997100  0.80635300  0.42833500  1

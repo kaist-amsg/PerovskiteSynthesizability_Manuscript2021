@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaPuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73979455
+_cell_length_b   5.84178397
+_cell_length_c   8.21864348
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPuO3
+_chemical_formula_sum   'Na4 Pu4 O12'
+_cell_volume   275.57637425
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.99537186  0.03870735  0.24999989  1
+  Na  Na1  1  0.50462782  0.53870701  0.24999989  1
+  Na  Na2  1  0.49537139  0.46129231  0.74999968  1
+  Na  Na3  1  0.00462734  0.96129368  0.74999968  1
+  O  O4  1  0.67583604  0.28788295  0.06009994  1
+  O  O5  1  0.82416365  0.78788261  0.06009994  1
+  O  O6  1  0.10668326  0.44424272  0.24999989  1
+  O  O7  1  0.39331721  0.94424238  0.24999989  1
+  O  O8  1  0.67583604  0.28788295  0.43989985  1
+  O  O9  1  0.82416365  0.78788261  0.43989985  1
+  O  O10  1  0.17583556  0.21211671  0.56009973  1
+  O  O11  1  0.32416491  0.71211637  0.56009973  1
+  O  O12  1  0.60668199  0.05575865  0.74999968  1
+  O  O13  1  0.89331769  0.55575831  0.74999968  1
+  O  O14  1  0.17583556  0.21211671  0.93989963  1
+  O  O15  1  0.32416491  0.71211637  0.93989963  1
+  Pu  Pu16  1  0.50000047  0.00000000  0.00000000  1
+  Pu  Pu17  1  0.00000000  0.49999966  0.00000000  1
+  Pu  Pu18  1  0.50000047  0.00000000  0.49999979  1
+  Pu  Pu19  1  0.00000000  0.49999966  0.49999979  1

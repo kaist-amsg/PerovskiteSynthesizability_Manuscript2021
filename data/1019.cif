@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TaAgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49924961
+_cell_length_b   5.58893858
+_cell_length_c   7.85486453
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAgO3
+_chemical_formula_sum   'Ta4 Ag4 O12'
+_cell_volume   241.41901230
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.99582314  0.01498317  0.25000049  1
+  Ag  Ag1  1  0.50417606  0.51498150  0.25000049  1
+  Ag  Ag2  1  0.49582401  0.48501696  0.75000020  1
+  Ag  Ag3  1  0.00417693  0.98501888  0.75000020  1
+  O  O4  1  0.71448657  0.28412729  0.03110429  1
+  O  O5  1  0.78551263  0.78412742  0.03110429  1
+  O  O6  1  0.06205210  0.49015568  0.25000049  1
+  O  O7  1  0.43794884  0.99015402  0.25000049  1
+  O  O8  1  0.71448657  0.28412729  0.46889542  1
+  O  O9  1  0.78551263  0.78412742  0.46889542  1
+  O  O10  1  0.21448745  0.21587104  0.53110400  1
+  O  O11  1  0.28551350  0.71587117  0.53110400  1
+  O  O12  1  0.56205305  0.00984445  0.75000020  1
+  O  O13  1  0.93794615  0.50984636  0.75000020  1
+  O  O14  1  0.21448745  0.21587104  0.96889640  1
+  O  O15  1  0.28551350  0.71587117  0.96889640  1
+  Ta  Ta16  1  0.50000095  0.00000000  0.00000000  1
+  Ta  Ta17  1  0.00000000  0.50000013  0.00000000  1
+  Ta  Ta18  1  0.50000095  0.00000000  0.49999971  1
+  Ta  Ta19  1  0.00000000  0.50000013  0.49999971  1

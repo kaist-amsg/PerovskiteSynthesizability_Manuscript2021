@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CdReO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54911399
+_cell_length_b   5.37575530
+_cell_length_c   7.67773328
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdReO3
+_chemical_formula_sum   'Cd4 Re4 O12'
+_cell_volume   229.03199648
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.99004634  0.04665391  0.25000087  1
+  Cd  Cd1  1  0.50995348  0.54665249  0.25000087  1
+  Cd  Cd2  1  0.49004760  0.45334653  0.75000001  1
+  Cd  Cd3  1  0.00995294  0.95334696  0.75000001  1
+  O  O4  1  0.70490713  0.29831901  0.05244517  1
+  O  O5  1  0.79509270  0.79831759  0.05244517  1
+  O  O6  1  0.10827855  0.50069801  0.25000087  1
+  O  O7  1  0.39172199  0.00069758  0.25000087  1
+  O  O8  1  0.70490713  0.29831901  0.44755397  1
+  O  O9  1  0.79509270  0.79831759  0.44755397  1
+  O  O10  1  0.20490659  0.20168143  0.55244691  1
+  O  O11  1  0.29509396  0.70168186  0.55244691  1
+  O  O12  1  0.60827909  0.99930242  0.75000001  1
+  O  O13  1  0.89172073  0.49930286  0.75000001  1
+  O  O14  1  0.20490659  0.20168143  0.94755441  1
+  O  O15  1  0.29509396  0.70168186  0.94755441  1
+  Re  Re16  1  0.49999874  0.00000000  0.00000000  1
+  Re  Re17  1  0.00000000  0.50000044  0.00000000  1
+  Re  Re18  1  0.49999874  0.00000000  0.49999914  1
+  Re  Re19  1  0.00000000  0.50000044  0.49999914  1

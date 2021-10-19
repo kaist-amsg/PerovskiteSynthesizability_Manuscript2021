@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PuNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24799518
+_cell_length_b   5.67425072
+_cell_length_c   7.47779948
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuNiO3
+_chemical_formula_sum   'Pu4 Ni4 O12'
+_cell_volume   222.67720599
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.50000046  0.00000000  0.00000000  1
+  Ni  Ni1  1  0.00000000  0.50000082  0.00000000  1
+  Ni  Ni2  1  0.50000046  0.00000000  0.50000004  1
+  Ni  Ni3  1  0.00000000  0.50000082  0.50000004  1
+  O  O4  1  0.67680131  0.31508830  0.06014737  1
+  O  O5  1  0.82319817  0.81508735  0.06014737  1
+  O  O6  1  0.13023449  0.45126487  0.25000002  1
+  O  O7  1  0.36976406  0.95126569  0.25000002  1
+  O  O8  1  0.67680131  0.31508830  0.43985266  1
+  O  O9  1  0.82319817  0.81508735  0.43985266  1
+  O  O10  1  0.17680085  0.18491252  0.56014607  1
+  O  O11  1  0.32319961  0.68491334  0.56014607  1
+  O  O12  1  0.63023495  0.04873419  0.75000005  1
+  O  O13  1  0.86976452  0.54873324  0.75000005  1
+  O  O14  1  0.17680085  0.18491252  0.93985270  1
+  O  O15  1  0.32319961  0.68491334  0.93985270  1
+  Pu  Pu16  1  0.97882521  0.07893553  0.25000002  1
+  Pu  Pu17  1  0.52117426  0.57893459  0.25000002  1
+  Pu  Pu18  1  0.47882475  0.42106352  0.75000005  1
+  Pu  Pu19  1  0.02117380  0.92106434  0.75000005  1

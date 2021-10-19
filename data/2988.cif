@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ZrHgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64587083
+_cell_length_b   5.79345206
+_cell_length_c   8.15958466
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrHgO3
+_chemical_formula_sum   'Zr4 Hg4 O12'
+_cell_volume   266.89252323
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.99205068  0.03429907  0.25000047  1
+  Hg  Hg1  1  0.50794998  0.53429803  0.25000047  1
+  Hg  Hg2  1  0.49204987  0.46570162  0.75000018  1
+  Hg  Hg3  1  0.00795094  0.96570058  0.75000018  1
+  O  O4  1  0.69487598  0.30217217  0.05573445  1
+  O  O5  1  0.80512469  0.80217286  0.05573445  1
+  O  O6  1  0.10419650  0.45758901  0.25000047  1
+  O  O7  1  0.39580431  0.95758970  0.25000047  1
+  O  O8  1  0.69487598  0.30217217  0.44426526  1
+  O  O9  1  0.80512469  0.80217286  0.44426526  1
+  O  O10  1  0.19487516  0.19782851  0.55573417  1
+  O  O11  1  0.30512388  0.69782747  0.55573417  1
+  O  O12  1  0.60419554  0.04241167  0.75000018  1
+  O  O13  1  0.89580512  0.54241063  0.75000018  1
+  O  O14  1  0.19487516  0.19782851  0.94426620  1
+  O  O15  1  0.30512388  0.69782747  0.94426620  1
+  Zr  Zr16  1  0.50000081  0.00000000  0.00000000  1
+  Zr  Zr17  1  0.00000000  0.50000069  0.00000000  1
+  Zr  Zr18  1  0.50000081  0.00000000  0.49999971  1
+  Zr  Zr19  1  0.00000000  0.50000069  0.49999971  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaHfO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60984011
+_cell_length_b   5.75141541
+_cell_length_c   8.01474156
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHfO3
+_chemical_formula_sum   'Na4 Hf4 O12'
+_cell_volume   258.59179634
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.49999999  0.00000000  0.00000000  1
+  Hf  Hf1  1  0.00000000  0.50000040  0.00000000  1
+  Hf  Hf2  1  0.49999999  0.00000000  0.49999990  1
+  Hf  Hf3  1  0.00000000  0.50000040  0.49999990  1
+  Na  Na4  1  0.99173771  0.03336918  0.24999933  1
+  Na  Na5  1  0.50826226  0.53336958  0.24999933  1
+  Na  Na6  1  0.49173594  0.46663122  0.74999923  1
+  Na  Na7  1  0.00826227  0.96663162  0.74999923  1
+  O  O8  1  0.70998815  0.28809778  0.04125398  1
+  O  O9  1  0.79001182  0.78809818  0.04125398  1
+  O  O10  1  0.07950316  0.47680959  0.24999933  1
+  O  O11  1  0.42049862  0.97680999  0.24999933  1
+  O  O12  1  0.70998815  0.28809778  0.45874592  1
+  O  O13  1  0.79001182  0.78809818  0.45874592  1
+  O  O14  1  0.20998816  0.21190262  0.54125513  1
+  O  O15  1  0.29001183  0.71190302  0.54125513  1
+  O  O16  1  0.57950315  0.02319081  0.74999923  1
+  O  O17  1  0.92049682  0.52319121  0.74999923  1
+  O  O18  1  0.20998816  0.21190262  0.95874582  1
+  O  O19  1  0.29001183  0.71190302  0.95874582  1

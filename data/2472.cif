@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_TlNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.78623422
+_cell_length_b   3.78541726
+_cell_length_c   3.79803148
+_cell_angle_alpha   89.81183842
+_cell_angle_beta   89.80722881
+_cell_angle_gamma   90.22609356
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlNiO3
+_chemical_formula_sum   'Tl1 Ni1 O3'
+_cell_volume   54.43416851
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.98782788  0.99066568  0.99972020  1
+  Ni  Ni1  1  0.50439547  0.50654146  0.50946387  1
+  O  O2  1  0.50076857  0.50391467  0.01071210  1
+  O  O3  1  0.52986226  0.00911177  0.51087046  1
+  O  O4  1  0.00714682  0.52976241  0.51922838  1

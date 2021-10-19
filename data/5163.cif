@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CrSnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29480574
+_cell_length_b   5.54333179
+_cell_length_c   7.68381248
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrSnO3
+_chemical_formula_sum   'Cr4 Sn4 O12'
+_cell_volume   225.52654245
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.49999946  0.00000000  0.00000000  1
+  Cr  Cr1  1  0.00000000  0.49999894  0.00000000  1
+  Cr  Cr2  1  0.49999946  0.00000000  0.49999919  1
+  Cr  Cr3  1  0.00000000  0.49999894  0.49999919  1
+  O  O4  1  0.68321298  0.31102053  0.06258872  1
+  O  O5  1  0.81678728  0.81101947  0.06258872  1
+  O  O6  1  0.12739655  0.44407950  0.24999959  1
+  O  O7  1  0.37260291  0.94408024  0.24999959  1
+  O  O8  1  0.68321298  0.31102053  0.43741047  1
+  O  O9  1  0.81678728  0.81101947  0.43741047  1
+  O  O10  1  0.18321163  0.18898021  0.56258791  1
+  O  O11  1  0.31678783  0.68898095  0.56258791  1
+  O  O12  1  0.62739790  0.05592124  0.75000008  1
+  O  O13  1  0.87260236  0.55592018  0.75000008  1
+  O  O14  1  0.18321163  0.18898021  0.93741096  1
+  O  O15  1  0.31678783  0.68898095  0.93741096  1
+  Sn  Sn16  1  0.98510696  0.05430128  0.24999959  1
+  Sn  Sn17  1  0.51489330  0.55430021  0.24999959  1
+  Sn  Sn18  1  0.48510750  0.44570127  0.75000008  1
+  Sn  Sn19  1  0.01489195  0.94570020  0.75000008  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PrInO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67031661
+_cell_length_b   5.96813868
+_cell_length_c   8.21235502
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrInO3
+_chemical_formula_sum   'Pr4 In4 O12'
+_cell_volume   277.91624296
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.49999854  0.00000000  0.00000000  1
+  In  In1  1  0.00000000  0.50000011  0.00000000  1
+  In  In2  1  0.49999854  0.00000000  0.50000030  1
+  In  In3  1  0.00000000  0.50000011  0.50000030  1
+  O  O4  1  0.69149225  0.30569665  0.06325104  1
+  O  O5  1  0.80850688  0.80569509  0.06325104  1
+  O  O6  1  0.12316596  0.44868260  0.24999893  1
+  O  O7  1  0.37683434  0.94868439  0.24999893  1
+  O  O8  1  0.69149225  0.30569665  0.43674926  1
+  O  O9  1  0.80850688  0.80569509  0.43674926  1
+  O  O10  1  0.19149372  0.19430514  0.56325134  1
+  O  O11  1  0.30850658  0.69430525  0.56325134  1
+  O  O12  1  0.62316450  0.05131751  0.74999924  1
+  O  O13  1  0.87683464  0.55131594  0.74999924  1
+  O  O14  1  0.19149372  0.19430514  0.93674835  1
+  O  O15  1  0.30850658  0.69430525  0.93674835  1
+  Pr  Pr16  1  0.98070538  0.06228408  0.24999893  1
+  Pr  Pr17  1  0.51929552  0.56228586  0.24999893  1
+  Pr  Pr18  1  0.48070508  0.43771436  0.74999924  1
+  Pr  Pr19  1  0.01929522  0.93771447  0.74999924  1

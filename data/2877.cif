@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_EuInO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83500000
+_cell_length_b   8.07800000
+_cell_length_c   5.56700000
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuInO3
+_chemical_formula_sum   'Eu4 In4 O12'
+_cell_volume   262.40126871
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.00000000  0.00000000  0.00000000  1
+  Eu  Eu1  1  0.00000000  0.50000000  0.00000000  1
+  Eu  Eu2  1  0.50000000  0.00000000  0.50000000  1
+  Eu  Eu3  1  0.50000000  0.50000000  0.50000000  1
+  In  In4  1  0.42115545  0.75000000  0.00301463  1
+  In  In5  1  0.92115545  0.75000000  0.49698537  1
+  In  In6  1  0.07884455  0.25000000  0.50301463  1
+  In  In7  1  0.57884455  0.25000000  0.99698537  1
+  O  O8  1  0.97800762  0.25000000  0.06811100  1
+  O  O9  1  0.65644995  0.54771986  0.15863056  1
+  O  O10  1  0.65644995  0.95228014  0.15863056  1
+  O  O11  1  0.15644995  0.54771986  0.34136944  1
+  O  O12  1  0.15644995  0.95228014  0.34136944  1
+  O  O13  1  0.47800762  0.25000000  0.43188900  1
+  O  O14  1  0.52199238  0.75000000  0.56811100  1
+  O  O15  1  0.84355005  0.04771986  0.65863056  1
+  O  O16  1  0.84355005  0.45228014  0.65863056  1
+  O  O17  1  0.34355005  0.04771986  0.84136944  1
+  O  O18  1  0.34355005  0.45228014  0.84136944  1
+  O  O19  1  0.02199238  0.75000000  0.93188900  1

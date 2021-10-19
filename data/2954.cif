@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlSbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22252471
+_cell_length_b   5.39033137
+_cell_length_c   7.49670965
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlSbO3
+_chemical_formula_sum   'Al4 Sb4 O12'
+_cell_volume   211.04091351
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.49999955  0.00000000  0.00000000  1
+  Al  Al1  1  0.00000000  0.50000080  0.00000000  1
+  Al  Al2  1  0.49999955  0.00000000  0.50000069  1
+  Al  Al3  1  0.00000000  0.50000080  0.50000069  1
+  O  O4  1  0.69998520  0.29657917  0.03381884  1
+  O  O5  1  0.80001536  0.79657997  0.03381884  1
+  O  O6  1  0.07976793  0.48007067  0.25000035  1
+  O  O7  1  0.42023162  0.98007147  0.25000035  1
+  O  O8  1  0.69998520  0.29657917  0.46618185  1
+  O  O9  1  0.80001536  0.79657997  0.46618185  1
+  O  O10  1  0.19998565  0.20341978  0.53381819  1
+  O  O11  1  0.30001581  0.70342058  0.53381819  1
+  O  O12  1  0.57976940  0.01992827  0.74999970  1
+  O  O13  1  0.92023117  0.51992907  0.74999970  1
+  O  O14  1  0.19998565  0.20341978  0.96618254  1
+  O  O15  1  0.30001581  0.70342058  0.96618254  1
+  Sb  Sb16  1  0.00189372  0.04789316  0.25000035  1
+  Sb  Sb17  1  0.49810583  0.54789211  0.25000035  1
+  Sb  Sb18  1  0.50189518  0.45210764  0.74999970  1
+  Sb  Sb19  1  0.99810538  0.95210844  0.74999970  1

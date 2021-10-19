@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PuBeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04731873
+_cell_length_b   5.06790752
+_cell_length_c   7.20738165
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuBeO3
+_chemical_formula_sum   'Pu4 Be4 O12'
+_cell_volume   184.36009871
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.50000013  0.00000000  0.00000000  1
+  Be  Be1  1  0.00000000  0.50000123  0.00000000  1
+  Be  Be2  1  0.50000013  0.00000000  0.49999989  1
+  Be  Be3  1  0.00000000  0.50000123  0.49999989  1
+  O  O4  1  0.71107853  0.29249942  0.02025423  1
+  O  O5  1  0.78891986  0.79249868  0.02025423  1
+  O  O6  1  0.03995587  0.49708484  0.25000064  1
+  O  O7  1  0.46004426  0.99708410  0.25000064  1
+  O  O8  1  0.71107853  0.29249942  0.47974565  1
+  O  O9  1  0.78891986  0.79249868  0.47974565  1
+  O  O10  1  0.21108039  0.20749984  0.52025551  1
+  O  O11  1  0.28891974  0.70750107  0.52025551  1
+  O  O12  1  0.53995599  0.00291639  0.74999913  1
+  O  O13  1  0.96004438  0.50291565  0.74999913  1
+  O  O14  1  0.21108039  0.20749984  0.97974554  1
+  O  O15  1  0.28891974  0.70750107  0.97974554  1
+  Pu  Pu16  1  0.99788626  0.02126519  0.25000064  1
+  Pu  Pu17  1  0.50211214  0.52126444  0.25000064  1
+  Pu  Pu18  1  0.49788613  0.47873604  0.74999913  1
+  Pu  Pu19  1  0.00211399  0.97873530  0.74999913  1

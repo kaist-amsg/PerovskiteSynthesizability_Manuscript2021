@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NbInO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72266780
+_cell_length_b   5.72266780
+_cell_length_c   5.72266741
+_cell_angle_alpha   59.99802722
+_cell_angle_beta   59.99802722
+_cell_angle_gamma   59.99805860
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbInO3
+_chemical_formula_sum   'Nb2 In2 O6'
+_cell_volume   132.51384570
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.24999963  0.24999963  0.24999948  1
+  In  In1  1  0.74999960  0.74999960  0.74999915  1
+  Nb  Nb2  1  0.00000000  0.00000000  0.00000000  1
+  Nb  Nb3  1  0.49999997  0.49999997  0.49999967  1
+  O  O4  1  0.75000112  0.25287223  0.24712669  1
+  O  O5  1  0.74712674  0.75287249  0.24999996  1
+  O  O6  1  0.24712873  0.74999986  0.25287144  1
+  O  O7  1  0.75287121  0.25000008  0.74712789  1
+  O  O8  1  0.25287320  0.24712746  0.74999938  1
+  O  O9  1  0.24999883  0.74712771  0.75287265  1

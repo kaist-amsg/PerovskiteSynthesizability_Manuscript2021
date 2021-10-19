@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_InGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32005581
+_cell_length_b   5.50712453
+_cell_length_c   7.96346646
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InGeO3
+_chemical_formula_sum   'In4 Ge4 O12'
+_cell_volume   233.31531189
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.50000039  0.00000000  0.00000000  1
+  Ge  Ge1  1  0.00000000  0.50000140  0.00000000  1
+  Ge  Ge2  1  0.50000039  0.00000000  0.50000085  1
+  Ge  Ge3  1  0.00000000  0.50000140  0.50000085  1
+  In  In4  1  0.97843334  0.05655401  0.25000042  1
+  In  In5  1  0.52156596  0.55655360  0.25000042  1
+  In  In6  1  0.47843483  0.44344557  0.75000002  1
+  In  In7  1  0.02156556  0.94344516  0.75000002  1
+  O  O8  1  0.69184049  0.30508299  0.07318798  1
+  O  O9  1  0.80815881  0.80508439  0.07318798  1
+  O  O10  1  0.13648729  0.42275238  0.25000042  1
+  O  O11  1  0.36351122  0.92275378  0.25000042  1
+  O  O12  1  0.69184049  0.30508299  0.42681162  1
+  O  O13  1  0.80815881  0.80508439  0.42681162  1
+  O  O14  1  0.19184009  0.19491479  0.57318757  1
+  O  O15  1  0.30815842  0.69491619  0.57318757  1
+  O  O16  1  0.63648768  0.07724539  0.75000002  1
+  O  O17  1  0.86351162  0.57724680  0.75000002  1
+  O  O18  1  0.19184009  0.19491479  0.92681247  1
+  O  O19  1  0.30815842  0.69491619  0.92681247  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AcGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74399461
+_cell_length_b   5.81593525
+_cell_length_c   8.15397753
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AcGeO3
+_chemical_formula_sum   'Ac4 Ge4 O12'
+_cell_volume   272.39748711
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ac  Ac0  1  0.99339926  0.03586869  0.25000069  1
+  Ac  Ac1  1  0.50660041  0.53586910  0.25000069  1
+  Ac  Ac2  1  0.49340053  0.46413000  0.75000084  1
+  Ac  Ac3  1  0.00659994  0.96413212  0.75000084  1
+  Ge  Ge4  1  0.50000047  0.00000000  0.00000000  1
+  Ge  Ge5  1  0.00000000  0.49999869  0.00000000  1
+  Ge  Ge6  1  0.50000047  0.00000000  0.50000015  1
+  Ge  Ge7  1  0.00000000  0.49999869  0.50000015  1
+  O  O8  1  0.71462114  0.28538660  0.03720883  1
+  O  O9  1  0.78537852  0.78538701  0.03720883  1
+  O  O10  1  0.06932980  0.48592013  0.25000069  1
+  O  O11  1  0.43066893  0.98591882  0.25000069  1
+  O  O12  1  0.71462114  0.28538660  0.46279009  1
+  O  O13  1  0.78537852  0.78538701  0.46279009  1
+  O  O14  1  0.21462242  0.21461381  0.53720899  1
+  O  O15  1  0.28537805  0.71461421  0.53720899  1
+  O  O16  1  0.56933027  0.01408200  0.75000084  1
+  O  O17  1  0.93066940  0.51408069  0.75000084  1
+  O  O18  1  0.21462242  0.21461381  0.96279024  1
+  O  O19  1  0.28537805  0.71461421  0.96279024  1

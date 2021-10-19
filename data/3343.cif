@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_GaBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42668060
+_cell_length_b   5.62075798
+_cell_length_c   7.76105610
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaBiO3
+_chemical_formula_sum   'Ga4 Bi4 O12'
+_cell_volume   236.72818552
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.99083775  0.05133827  0.25000077  1
+  Bi  Bi1  1  0.50916208  0.55133845  0.25000077  1
+  Bi  Bi2  1  0.49083781  0.44866191  0.74999973  1
+  Bi  Bi3  1  0.00916214  0.94866209  0.74999973  1
+  Ga  Ga4  1  0.49999995  0.00000000  0.00000000  1
+  Ga  Ga5  1  0.00000000  0.50000018  0.00000000  1
+  Ga  Ga6  1  0.49999995  0.00000000  0.49999896  1
+  Ga  Ga7  1  0.00000000  0.50000018  0.49999896  1
+  O  O8  1  0.69957683  0.29702044  0.04313073  1
+  O  O9  1  0.80042485  0.79702062  0.04313073  1
+  O  O10  1  0.08886648  0.47582550  0.25000077  1
+  O  O11  1  0.41113347  0.97582390  0.25000077  1
+  O  O12  1  0.69957683  0.29702044  0.45686952  1
+  O  O13  1  0.80042485  0.79702062  0.45686952  1
+  O  O14  1  0.19957504  0.20297974  0.54313098  1
+  O  O15  1  0.30042490  0.70297814  0.54313098  1
+  O  O16  1  0.58886458  0.02417468  0.74999973  1
+  O  O17  1  0.91113525  0.52417663  0.74999973  1
+  O  O18  1  0.19957504  0.20297974  0.95686977  1
+  O  O19  1  0.30042490  0.70297814  0.95686977  1

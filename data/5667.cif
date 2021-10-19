@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrNpO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.00839901
+_cell_length_b   6.18157546
+_cell_length_c   8.61852529
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrNpO3
+_chemical_formula_sum   'Sr4 Np4 O12'
+_cell_volume   320.10385327
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Np  Np0  1  0.50000008  0.00000000  0.00000000  1
+  Np  Np1  1  0.00000000  0.50000037  0.00000000  1
+  Np  Np2  1  0.50000008  0.00000000  0.49999969  1
+  Np  Np3  1  0.00000000  0.50000037  0.49999969  1
+  O  O4  1  0.69474247  0.30346147  0.05745182  1
+  O  O5  1  0.80525944  0.80346022  0.05745182  1
+  O  O6  1  0.10883598  0.45450387  0.24999985  1
+  O  O7  1  0.39116244  0.95450586  0.24999985  1
+  O  O8  1  0.69474247  0.30346147  0.44254787  1
+  O  O9  1  0.80525944  0.80346022  0.44254787  1
+  O  O10  1  0.19474073  0.19653889  0.55745152  1
+  O  O11  1  0.30525769  0.69654088  0.55745152  1
+  O  O12  1  0.60883773  0.04549649  0.74999954  1
+  O  O13  1  0.89116418  0.54549524  0.74999954  1
+  O  O14  1  0.19474073  0.19653889  0.94254756  1
+  O  O15  1  0.30525769  0.69654088  0.94254756  1
+  Sr  Sr16  1  0.98921360  0.04750731  0.24999985  1
+  Sr  Sr17  1  0.51078665  0.54750767  0.24999985  1
+  Sr  Sr18  1  0.48921351  0.45249468  0.74999954  1
+  Sr  Sr19  1  0.01078490  0.95249343  0.74999954  1

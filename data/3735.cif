@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CeHgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72288621
+_cell_length_b   6.49967051
+_cell_length_c   8.10174031
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeHgO3
+_chemical_formula_sum   'Ce4 Hg4 O12'
+_cell_volume   301.35941958
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.97206021  0.09253700  0.24999937  1
+  Ce  Ce1  1  0.52793816  0.59253465  0.24999937  1
+  Ce  Ce2  1  0.47206076  0.40746373  0.75000059  1
+  Ce  Ce3  1  0.02793870  0.90746446  0.75000059  1
+  Hg  Hg4  1  0.49999946  0.00000000  0.00000000  1
+  Hg  Hg5  1  0.00000000  0.50000073  0.00000000  1
+  Hg  Hg6  1  0.49999946  0.00000000  0.49999998  1
+  Hg  Hg7  1  0.00000000  0.50000073  0.49999998  1
+  O  O8  1  0.69339139  0.33718478  0.06449479  1
+  O  O9  1  0.80660873  0.83718398  0.06449479  1
+  O  O10  1  0.14102325  0.44525180  0.24999937  1
+  O  O11  1  0.35897621  0.94525253  0.24999937  1
+  O  O12  1  0.69339139  0.33718478  0.43550396  1
+  O  O13  1  0.80660873  0.83718398  0.43550396  1
+  O  O14  1  0.19339193  0.16281441  0.56449600  1
+  O  O15  1  0.30660753  0.66281514  0.56449600  1
+  O  O16  1  0.64102445  0.05474739  0.75000059  1
+  O  O17  1  0.85897567  0.55474812  0.75000059  1
+  O  O18  1  0.19339193  0.16281441  0.93550394  1
+  O  O19  1  0.30660753  0.66281514  0.93550394  1

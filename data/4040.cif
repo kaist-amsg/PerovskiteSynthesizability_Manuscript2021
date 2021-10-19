@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_SrThO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47372685
+_cell_length_b   4.47372685
+_cell_length_c   4.75016454
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrThO3
+_chemical_formula_sum   'Sr1 Th1 O3'
+_cell_volume   95.07089472
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.49999923  0.49999923  0.07921831  1
+  O  O1  1  0.49999923  0.00000000  0.66037502  1
+  O  O2  1  0.00000000  0.49999923  0.66037502  1
+  Sr  Sr3  1  0.00000000  0.00000000  0.94562198  1
+  Th  Th4  1  0.49999923  0.49999923  0.55441448  1

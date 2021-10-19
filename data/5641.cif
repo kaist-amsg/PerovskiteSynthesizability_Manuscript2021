@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NiHgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38372496
+_cell_length_b   5.48815726
+_cell_length_c   7.44885514
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiHgO3
+_chemical_formula_sum   'Ni4 Hg4 O12'
+_cell_volume   220.08930605
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.00109590  0.02953450  0.24999949  1
+  Hg  Hg1  1  0.49890364  0.52953475  0.24999949  1
+  Hg  Hg2  1  0.50109543  0.47046575  0.74999982  1
+  Hg  Hg3  1  0.99890410  0.97046600  0.74999982  1
+  Ni  Ni4  1  0.49999954  0.00000000  0.00000000  1
+  Ni  Ni5  1  0.00000000  0.50000025  0.00000000  1
+  Ni  Ni6  1  0.49999954  0.00000000  0.50000033  1
+  Ni  Ni7  1  0.00000000  0.50000025  0.50000033  1
+  O  O8  1  0.68287106  0.32234863  0.03114573  1
+  O  O9  1  0.81712941  0.82234888  0.03114573  1
+  O  O10  1  0.07027848  0.45773652  0.24999949  1
+  O  O11  1  0.42972106  0.95773677  0.24999949  1
+  O  O12  1  0.68287106  0.32234863  0.46885460  1
+  O  O13  1  0.81712941  0.82234888  0.46885460  1
+  O  O14  1  0.18287153  0.17765161  0.53114605  1
+  O  O15  1  0.31712801  0.67765186  0.53114605  1
+  O  O16  1  0.57027987  0.04226373  0.74999982  1
+  O  O17  1  0.92972060  0.54226398  0.74999982  1
+  O  O18  1  0.18287153  0.17765161  0.96885358  1
+  O  O19  1  0.31712801  0.67765186  0.96885358  1

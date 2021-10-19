@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaErO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.94143093
+_cell_length_b   6.01238765
+_cell_length_c   7.67616288
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaErO3
+_chemical_formula_sum   'Na4 Er4 O12'
+_cell_volume   274.20931788
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.50000076  0.00000000  0.00000000  1
+  Er  Er1  1  0.00000000  0.50000103  0.00000000  1
+  Er  Er2  1  0.50000076  0.00000000  0.49999981  1
+  Er  Er3  1  0.00000000  0.50000103  0.49999981  1
+  Na  Na4  1  0.98463654  0.04808406  0.25000121  1
+  Na  Na5  1  0.51536407  0.54808342  0.25000121  1
+  Na  Na6  1  0.48463578  0.45191697  0.75000102  1
+  Na  Na7  1  0.01536330  0.95191633  0.75000102  1
+  O  O8  1  0.71579221  0.28068882  0.08932979  1
+  O  O9  1  0.78420671  0.78068818  0.08932979  1
+  O  O10  1  0.15840124  0.41930596  0.25000121  1
+  O  O11  1  0.34159784  0.91930366  0.25000121  1
+  O  O12  1  0.71579221  0.28068882  0.41067133  1
+  O  O13  1  0.78420671  0.78068818  0.41067133  1
+  O  O14  1  0.21579313  0.21931054  0.58932960  1
+  O  O15  1  0.28420763  0.71931157  0.58932960  1
+  O  O16  1  0.65840200  0.08069506  0.75000102  1
+  O  O17  1  0.84159861  0.58069609  0.75000102  1
+  O  O18  1  0.21579313  0.21931054  0.91067114  1
+  O  O19  1  0.28420763  0.71931157  0.91067114  1

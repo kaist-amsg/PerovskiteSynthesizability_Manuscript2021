@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SrHgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93363413
+_cell_length_b   6.60665685
+_cell_length_c   7.65533312
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHgO3
+_chemical_formula_sum   'Sr4 Hg4 O12'
+_cell_volume   300.10042310
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.50000049  0.00000000  0.00000000  1
+  Hg  Hg1  1  0.00000000  0.49999872  0.00000000  1
+  Hg  Hg2  1  0.50000049  0.00000000  0.50000045  1
+  Hg  Hg3  1  0.00000000  0.49999872  0.50000045  1
+  O  O4  1  0.71748441  0.32907567  0.04678960  1
+  O  O5  1  0.78251539  0.82907590  0.04678960  1
+  O  O6  1  0.12573745  0.43348854  0.24999957  1
+  O  O7  1  0.37426305  0.93348877  0.24999957  1
+  O  O8  1  0.71748441  0.32907567  0.45321085  1
+  O  O9  1  0.78251539  0.82907590  0.45321085  1
+  O  O10  1  0.21748392  0.17092457  0.54679005  1
+  O  O11  1  0.28251658  0.67092481  0.54679005  1
+  O  O12  1  0.62573794  0.06651019  0.75000002  1
+  O  O13  1  0.87426354  0.56651194  0.75000002  1
+  O  O14  1  0.21748392  0.17092457  0.95321130  1
+  O  O15  1  0.28251658  0.67092481  0.95321130  1
+  Sr  Sr16  1  0.98023064  0.07583412  0.24999957  1
+  Sr  Sr17  1  0.51976916  0.57583587  0.24999957  1
+  Sr  Sr18  1  0.48023015  0.42416461  0.75000002  1
+  Sr  Sr19  1  0.01977035  0.92416333  0.75000002  1

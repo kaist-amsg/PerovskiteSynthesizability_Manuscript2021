@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_GeBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69113800
+_cell_length_b   5.73969400
+_cell_length_c   8.10126200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeBiO3
+_chemical_formula_sum   'Ge4 Bi4 O12'
+_cell_volume   264.63088784
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.99222579  0.03546097  0.25000045  1
+  Bi  Bi1  1  0.50777454  0.53546119  0.25000045  1
+  Bi  Bi2  1  0.49222568  0.46453926  0.75000002  1
+  Bi  Bi3  1  0.00777443  0.96453948  0.75000002  1
+  Ge  Ge4  1  0.50000011  0.00000000  0.00000000  1
+  Ge  Ge5  1  0.00000000  0.50000023  0.00000000  1
+  Ge  Ge6  1  0.50000011  0.00000000  0.49999956  1
+  Ge  Ge7  1  0.00000000  0.50000023  0.49999956  1
+  O  O8  1  0.70578453  0.28997888  0.04713586  1
+  O  O9  1  0.79421580  0.78997910  0.04713586  1
+  O  O10  1  0.08956203  0.47317847  0.25000045  1
+  O  O11  1  0.41043808  0.97317681  0.25000045  1
+  O  O12  1  0.70578453  0.28997888  0.45286371  1
+  O  O13  1  0.79421580  0.78997910  0.45286371  1
+  O  O14  1  0.20578442  0.21001946  0.54713676  1
+  O  O15  1  0.29421569  0.71001969  0.54713676  1
+  O  O16  1  0.58956214  0.02682176  0.75000002  1
+  O  O17  1  0.91043819  0.52682198  0.75000002  1
+  O  O18  1  0.20578442  0.21001946  0.95286327  1
+  O  O19  1  0.29421569  0.71001969  0.95286327  1

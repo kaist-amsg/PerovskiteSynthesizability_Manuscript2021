@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AlCdO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17895391
+_cell_length_b   5.34091679
+_cell_length_c   7.36575216
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCdO3
+_chemical_formula_sum   'Al4 Cd4 O12'
+_cell_volume   203.73937037
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.50000059  0.00000000  0.00000000  1
+  Al  Al1  1  0.00000000  0.50000030  0.00000000  1
+  Al  Al2  1  0.50000059  0.00000000  0.50000053  1
+  Al  Al3  1  0.00000000  0.50000030  0.50000053  1
+  Cd  Cd4  1  0.99076379  0.03890156  0.25000027  1
+  Cd  Cd5  1  0.50923797  0.53889999  0.25000027  1
+  Cd  Cd6  1  0.49076320  0.46109874  0.74999944  1
+  Cd  Cd7  1  0.00923739  0.96109904  0.74999944  1
+  O  O8  1  0.70938071  0.28947090  0.04221022  1
+  O  O9  1  0.79061912  0.78947120  0.04221022  1
+  O  O10  1  0.08185823  0.47529106  0.25000027  1
+  O  O11  1  0.41814236  0.97529136  0.25000027  1
+  O  O12  1  0.70938071  0.28947090  0.45779031  1
+  O  O13  1  0.79061912  0.78947120  0.45779031  1
+  O  O14  1  0.20938012  0.21052753  0.54220939  1
+  O  O15  1  0.29062047  0.71052783  0.54220939  1
+  O  O16  1  0.58185689  0.02470737  0.74999944  1
+  O  O17  1  0.91814295  0.52470767  0.74999944  1
+  O  O18  1  0.20938012  0.21052753  0.95778949  1
+  O  O19  1  0.29062047  0.71052783  0.95778949  1

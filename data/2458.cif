@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaCdO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72310782
+_cell_length_b   6.09313443
+_cell_length_c   8.22907073
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCdO3
+_chemical_formula_sum   'La4 Cd4 O12'
+_cell_volume   286.96140009
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.49999932  0.00000000  0.00000000  1
+  Cd  Cd1  1  0.00000000  0.50000046  0.00000000  1
+  Cd  Cd2  1  0.49999932  0.00000000  0.50000056  1
+  Cd  Cd3  1  0.00000000  0.50000046  0.50000056  1
+  La  La4  1  0.97939095  0.06954549  0.25000028  1
+  La  La5  1  0.52060875  0.56954594  0.25000028  1
+  La  La6  1  0.47939163  0.43045333  0.74999963  1
+  La  La7  1  0.02060768  0.93045379  0.74999963  1
+  O  O8  1  0.69234236  0.31084494  0.06377755  1
+  O  O9  1  0.80765733  0.81084540  0.06377755  1
+  O  O10  1  0.12754084  0.44658624  0.25000028  1
+  O  O11  1  0.37246022  0.94658670  0.25000028  1
+  O  O12  1  0.69234236  0.31084494  0.43622179  1
+  O  O13  1  0.80765733  0.81084540  0.43622179  1
+  O  O14  1  0.19234305  0.18915552  0.56377812  1
+  O  O15  1  0.30765627  0.68915433  0.56377812  1
+  O  O16  1  0.62754016  0.05341422  0.74999963  1
+  O  O17  1  0.87245954  0.55341303  0.74999963  1
+  O  O18  1  0.19234305  0.18915552  0.93622236  1
+  O  O19  1  0.30765627  0.68915433  0.93622236  1

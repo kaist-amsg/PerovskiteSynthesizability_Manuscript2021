@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_K3ClO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22443000
+_cell_length_b   5.23107000
+_cell_length_c   5.23381188
+_cell_angle_alpha   89.42902645
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3ClO
+_chemical_formula_sum   'K3 Cl1 O1'
+_cell_volume   143.02962166
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.50006100  0.04176700  1
+  K  K1  1  0.50000000  0.03249600  0.00203700  1
+  K  K2  1  0.00000000  0.96907800  0.51674500  1
+  Cl  Cl3  1  0.50000000  0.49827900  0.49693600  1
+  O  O4  1  0.00000000  0.00008600  0.01481600  1

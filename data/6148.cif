@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TbHfO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47352454
+_cell_length_b   6.06360646
+_cell_length_c   7.53836768
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbHfO3
+_chemical_formula_sum   'Tb4 Hf4 O12'
+_cell_volume   250.19313722
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.49999959  0.00000000  0.00000000  1
+  Hf  Hf1  1  0.00000000  0.49999947  0.00000000  1
+  Hf  Hf2  1  0.49999959  0.00000000  0.49999949  1
+  Hf  Hf3  1  0.00000000  0.49999947  0.49999949  1
+  O  O4  1  0.68111506  0.30979748  0.05255780  1
+  O  O5  1  0.81888370  0.80979695  0.05255780  1
+  O  O6  1  0.15889031  0.42211183  0.24999975  1
+  O  O7  1  0.34110928  0.92211129  0.24999975  1
+  O  O8  1  0.68111506  0.30979748  0.44744169  1
+  O  O9  1  0.81888370  0.80979695  0.44744169  1
+  O  O10  1  0.18111548  0.19020199  0.55255729  1
+  O  O11  1  0.31888411  0.69020310  0.55255729  1
+  O  O12  1  0.65888989  0.07788929  0.74999924  1
+  O  O13  1  0.84110886  0.57788876  0.74999924  1
+  O  O14  1  0.18111548  0.19020199  0.94744118  1
+  O  O15  1  0.31888411  0.69020310  0.94744118  1
+  Tb  Tb16  1  0.97150930  0.07568433  0.24999975  1
+  Tb  Tb17  1  0.52849128  0.57568380  0.24999975  1
+  Tb  Tb18  1  0.47150972  0.42431679  0.74999924  1
+  Tb  Tb19  1  0.02849170  0.92431625  0.74999924  1

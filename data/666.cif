@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CdGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31191300
+_cell_length_b   5.36356000
+_cell_length_c   7.58068100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdGeO3
+_chemical_formula_sum   'Cd4 Ge4 O12'
+_cell_volume   215.97939401
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00832800  0.96436400  0.75000000  1
+  Cd  Cd1  1  0.50832800  0.53563600  0.25000000  1
+  Cd  Cd2  1  0.49167200  0.46436400  0.75000000  1
+  Cd  Cd3  1  0.99167200  0.03563600  0.25000000  1
+  Ge  Ge4  1  0.00000000  0.50000000  0.50000000  1
+  Ge  Ge5  1  0.50000000  0.00000000  0.50000000  1
+  Ge  Ge6  1  0.50000000  0.00000000  0.00000000  1
+  Ge  Ge7  1  0.00000000  0.50000000  0.00000000  1
+  O  O8  1  0.70532000  0.28967000  0.45231200  1
+  O  O9  1  0.20532000  0.21033000  0.54768800  1
+  O  O10  1  0.79468000  0.78967000  0.04768800  1
+  O  O11  1  0.29468000  0.71033000  0.95231200  1
+  O  O12  1  0.29468000  0.71033000  0.54768800  1
+  O  O13  1  0.79468000  0.78967000  0.45231200  1
+  O  O14  1  0.20532000  0.21033000  0.95231200  1
+  O  O15  1  0.70532000  0.28967000  0.04768800  1
+  O  O16  1  0.09009100  0.47089300  0.25000000  1
+  O  O17  1  0.59009100  0.02910700  0.75000000  1
+  O  O18  1  0.40990900  0.97089300  0.25000000  1
+  O  O19  1  0.90990900  0.52910700  0.75000000  1

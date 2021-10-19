@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PuHgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83331900
+_cell_length_b   5.92866860
+_cell_length_c   8.56149955
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PuHgO3
+_chemical_formula_sum   'Pu4 Hg4 O12'
+_cell_volume   296.08931791
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.99191044  0.04610310  0.25000060  1
+  Hg  Hg1  1  0.50809153  0.54610237  0.25000060  1
+  Hg  Hg2  1  0.49191035  0.45389618  0.75000062  1
+  Hg  Hg3  1  0.00808973  0.95389714  0.75000062  1
+  O  O4  1  0.67500852  0.31853695  0.06538925  1
+  O  O5  1  0.82499003  0.81853454  0.06538925  1
+  O  O6  1  0.11406885  0.41889675  0.25000060  1
+  O  O7  1  0.38593123  0.91889771  0.25000060  1
+  O  O8  1  0.67500852  0.31853695  0.43461078  1
+  O  O9  1  0.82499003  0.81853454  0.43461078  1
+  O  O10  1  0.17500843  0.18146401  0.56538810  1
+  O  O11  1  0.32499166  0.68146498  0.56538810  1
+  O  O12  1  0.61406722  0.08110253  0.75000062  1
+  O  O13  1  0.88593303  0.58110180  0.75000062  1
+  O  O14  1  0.17500843  0.18146401  0.93461081  1
+  O  O15  1  0.32499166  0.68146498  0.93461081  1
+  Pu  Pu16  1  0.50000009  0.00000000  0.00000000  1
+  Pu  Pu17  1  0.00000000  0.50000096  0.00000000  1
+  Pu  Pu18  1  0.50000009  0.00000000  0.50000003  1
+  Pu  Pu19  1  0.00000000  0.50000096  0.50000003  1

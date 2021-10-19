@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NiTeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88445306
+_cell_length_b   7.39186194
+_cell_length_c   5.14934919
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiTeO3
+_chemical_formula_sum   'Ni4 Te4 O12'
+_cell_volume   223.98157447
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni1  1  0.00000000  0.50000000  0.50000000  1
+  Ni  Ni2  1  0.50000000  0.00000000  0.00000000  1
+  Ni  Ni3  1  0.50000000  0.50000000  0.00000000  1
+  O  O4  1  0.31972016  0.56040278  0.64433325  1
+  O  O5  1  0.31972016  0.93959722  0.64433325  1
+  O  O6  1  0.05296639  0.25000000  0.65197888  1
+  O  O7  1  0.55296639  0.25000000  0.84802112  1
+  O  O8  1  0.81972016  0.56040278  0.85566675  1
+  O  O9  1  0.81972016  0.93959722  0.85566675  1
+  O  O10  1  0.18027984  0.06040278  0.14433325  1
+  O  O11  1  0.18027984  0.43959722  0.14433325  1
+  O  O12  1  0.44703361  0.75000000  0.15197888  1
+  O  O13  1  0.94703361  0.75000000  0.34802112  1
+  O  O14  1  0.68027984  0.06040278  0.35566675  1
+  O  O15  1  0.68027984  0.43959722  0.35566675  1
+  Te  Te16  1  0.52962072  0.75000000  0.51580439  1
+  Te  Te17  1  0.02962072  0.75000000  0.98419561  1
+  Te  Te18  1  0.97037928  0.25000000  0.01580439  1
+  Te  Te19  1  0.47037928  0.25000000  0.48419561  1

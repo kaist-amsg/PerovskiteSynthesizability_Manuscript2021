@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TiAgO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.40986706
+_cell_length_b   5.41832072
+_cell_length_c   7.51209309
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAgO3
+_chemical_formula_sum   'Ti4 Ag4 O12'
+_cell_volume   220.19743831
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.99863267  0.00948080  0.24999956  1
+  Ag  Ag1  1  0.50136722  0.50948073  0.24999956  1
+  Ag  Ag2  1  0.49863333  0.49051914  0.75000002  1
+  Ag  Ag3  1  0.00136787  0.99051907  0.75000002  1
+  O  O4  1  0.67248787  0.32654398  0.02228407  1
+  O  O5  1  0.82751017  0.82654391  0.02228407  1
+  O  O6  1  0.04731170  0.48160678  0.24999956  1
+  O  O7  1  0.45268765  0.98160487  0.24999956  1
+  O  O8  1  0.67248787  0.32654398  0.47771506  1
+  O  O9  1  0.82751017  0.82654391  0.47771506  1
+  O  O10  1  0.17248853  0.17345780  0.52228453  1
+  O  O11  1  0.32751082  0.67345774  0.52228453  1
+  O  O12  1  0.54731105  0.01839315  0.75000002  1
+  O  O13  1  0.95268884  0.51839309  0.75000002  1
+  O  O14  1  0.17248853  0.17345780  0.97771552  1
+  O  O15  1  0.32751082  0.67345774  0.97771552  1
+  Ti  Ti16  1  0.49999935  0.00000000  0.00000000  1
+  Ti  Ti17  1  0.00000000  0.49999993  0.00000000  1
+  Ti  Ti18  1  0.49999935  0.00000000  0.50000046  1
+  Ti  Ti19  1  0.00000000  0.49999993  0.50000046  1

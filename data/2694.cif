@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaTcO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36734526
+_cell_length_b   5.41094235
+_cell_length_c   7.62377168
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTcO3
+_chemical_formula_sum   'Na4 Tc4 O12'
+_cell_volume   221.41259445
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.99626906  0.02065259  0.25000093  1
+  Na  Na1  1  0.50373134  0.52065423  0.25000093  1
+  Na  Na2  1  0.49626955  0.47934719  0.75000016  1
+  Na  Na3  1  0.00373183  0.97934697  0.75000016  1
+  O  O4  1  0.71856566  0.28067939  0.02811994  1
+  O  O5  1  0.78143473  0.78067917  0.02811994  1
+  O  O6  1  0.05527872  0.49351108  0.25000093  1
+  O  O7  1  0.44472079  0.99351271  0.25000093  1
+  O  O8  1  0.71856566  0.28067939  0.47188192  1
+  O  O9  1  0.78143473  0.78067917  0.47188192  1
+  O  O10  1  0.21856615  0.21932039  0.52811917  1
+  O  O11  1  0.28143522  0.71932018  0.52811917  1
+  O  O12  1  0.55528010  0.00648870  0.75000016  1
+  O  O13  1  0.94472029  0.50648849  0.75000016  1
+  O  O14  1  0.21856615  0.21932039  0.97188115  1
+  O  O15  1  0.28143522  0.71932018  0.97188115  1
+  Tc  Tc16  1  0.49999951  0.00000000  0.00000000  1
+  Tc  Tc17  1  0.00000000  0.49999978  0.00000000  1
+  Tc  Tc18  1  0.49999951  0.00000000  0.49999923  1
+  Tc  Tc19  1  0.00000000  0.49999978  0.49999923  1

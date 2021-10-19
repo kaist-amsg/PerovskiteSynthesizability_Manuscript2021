@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TaMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26214201
+_cell_length_b   5.58987975
+_cell_length_c   7.60228151
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.04173067
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaMnO3
+_chemical_formula_sum   'Ta4 Mn4 O12'
+_cell_volume   223.61908265
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.97268980  0.06457982  0.24999995  1
+  Mn  Mn1  1  0.52740501  0.56468130  0.24999995  1
+  Mn  Mn2  1  0.47260728  0.43533773  0.74999985  1
+  Mn  Mn3  1  0.02732438  0.93540343  0.74999985  1
+  O  O4  1  0.81581452  0.80615923  0.06340597  1
+  O  O5  1  0.68408902  0.30610867  0.06345069  1
+  O  O6  1  0.14020465  0.45020982  0.24999995  1
+  O  O7  1  0.35977838  0.95016706  0.24999995  1
+  O  O8  1  0.68408902  0.30610867  0.43654921  1
+  O  O9  1  0.81581452  0.80615923  0.43659394  1
+  O  O10  1  0.31584344  0.69386561  0.56342560  1
+  O  O11  1  0.18411416  0.19387050  0.56342823  1
+  O  O12  1  0.64024527  0.04974106  0.74999985  1
+  O  O13  1  0.85981526  0.54987898  0.74999985  1
+  O  O14  1  0.18411416  0.19387050  0.93657147  1
+  O  O15  1  0.31584344  0.69386561  0.93657542  1
+  Ta  Ta16  1  0.50005494  0.00000000  0.00000000  1
+  Ta  Ta17  1  0.00000000  0.50003227  0.00000000  1
+  Ta  Ta18  1  0.50005494  0.00000000  0.49999859  1
+  Ta  Ta19  1  0.00000000  0.50003227  0.50000122  1

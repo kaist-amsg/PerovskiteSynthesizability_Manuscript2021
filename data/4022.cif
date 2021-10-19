@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_PaCuO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55915897
+_cell_length_b   6.02248542
+_cell_length_c   8.39459285
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PaCuO3
+_chemical_formula_sum   'Pa4 Cu4 O12'
+_cell_volume   281.05058136
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.46795388  0.41143977  0.24999902  1
+  Cu  Cu1  1  0.03204621  0.91144098  0.24999902  1
+  Cu  Cu2  1  0.96795397  0.08855978  0.74999945  1
+  Cu  Cu3  1  0.53204451  0.58855933  0.74999945  1
+  O  O4  1  0.67540792  0.31529009  0.06787107  1
+  O  O5  1  0.82459056  0.81529131  0.06787107  1
+  O  O6  1  0.12776033  0.46729877  0.24999902  1
+  O  O7  1  0.37223976  0.96729998  0.24999902  1
+  O  O8  1  0.67540792  0.31529009  0.43212936  1
+  O  O9  1  0.82459056  0.81529131  0.43212936  1
+  O  O10  1  0.17540783  0.18471112  0.56787030  1
+  O  O11  1  0.32459047  0.68471233  0.56787030  1
+  O  O12  1  0.62776042  0.03270078  0.74999945  1
+  O  O13  1  0.87223985  0.53270033  0.74999945  1
+  O  O14  1  0.17540783  0.18471112  0.93212978  1
+  O  O15  1  0.32459047  0.68471233  0.93212978  1
+  Pa  Pa16  1  0.50000009  0.00000000  0.00000000  1
+  Pa  Pa17  1  0.00000000  0.49999955  0.00000000  1
+  Pa  Pa18  1  0.50000009  0.00000000  0.50000043  1
+  Pa  Pa19  1  0.00000000  0.49999955  0.50000043  1

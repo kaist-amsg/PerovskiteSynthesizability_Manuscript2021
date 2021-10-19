@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KCaBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.78221800
+_cell_length_b   8.06059300
+_cell_length_c   11.15511500
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCaBr3
+_chemical_formula_sum   'K4 Ca4 Br12'
+_cell_volume   699.75246541
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.01659500  0.43627800  0.25000000  1
+  K  K1  1  0.98340500  0.56372200  0.75000000  1
+  K  K2  1  0.51659500  0.06372200  0.75000000  1
+  K  K3  1  0.48340500  0.93627800  0.25000000  1
+  Ca  Ca4  1  0.00000000  0.00000000  0.00000000  1
+  Ca  Ca5  1  0.50000000  0.50000000  0.00000000  1
+  Ca  Ca6  1  0.00000000  0.00000000  0.50000000  1
+  Ca  Ca7  1  0.50000000  0.50000000  0.50000000  1
+  Br  Br8  1  0.30466000  0.19843000  0.05120000  1
+  Br  Br9  1  0.69534000  0.80157000  0.94880000  1
+  Br  Br10  1  0.80466000  0.30157000  0.94880000  1
+  Br  Br11  1  0.69534000  0.80157000  0.55120000  1
+  Br  Br12  1  0.19534000  0.69843000  0.05120000  1
+  Br  Br13  1  0.30466000  0.19843000  0.44880000  1
+  Br  Br14  1  0.19534000  0.69843000  0.44880000  1
+  Br  Br15  1  0.80466000  0.30157000  0.55120000  1
+  Br  Br16  1  0.60055200  0.53251500  0.25000000  1
+  Br  Br17  1  0.39944800  0.46748500  0.75000000  1
+  Br  Br18  1  0.10055200  0.96748500  0.75000000  1
+  Br  Br19  1  0.89944800  0.03251500  0.25000000  1

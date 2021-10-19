@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HgIrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52988794
+_cell_length_b   5.48490974
+_cell_length_c   7.86047276
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgIrO3
+_chemical_formula_sum   'Hg4 Ir4 O12'
+_cell_volume   238.41549795
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.99760792  0.02659114  0.25000023  1
+  Hg  Hg1  1  0.50239354  0.52659207  0.25000023  1
+  Hg  Hg2  1  0.49760683  0.47340797  0.74999942  1
+  Hg  Hg3  1  0.00239245  0.97340891  0.74999942  1
+  Ir  Ir4  1  0.49999928  0.00000000  0.00000000  1
+  Ir  Ir5  1  0.00000000  0.49999911  0.00000000  1
+  Ir  Ir6  1  0.49999928  0.00000000  0.50000046  1
+  Ir  Ir7  1  0.00000000  0.49999911  0.50000046  1
+  O  O8  1  0.70961474  0.29160917  0.05675486  1
+  O  O9  1  0.79038672  0.79160829  0.05675486  1
+  O  O10  1  0.10116842  0.45766295  0.25000023  1
+  O  O11  1  0.39883087  0.95766207  0.25000023  1
+  O  O12  1  0.70961474  0.29160917  0.44324560  1
+  O  O13  1  0.79038672  0.79160829  0.44324560  1
+  O  O14  1  0.20961365  0.20839176  0.55675404  1
+  O  O15  1  0.29038563  0.70839087  0.55675404  1
+  O  O16  1  0.60116770  0.04233798  0.74999942  1
+  O  O17  1  0.89883196  0.54233709  0.74999942  1
+  O  O18  1  0.20961365  0.20839176  0.94324607  1
+  O  O19  1  0.29038563  0.70839087  0.94324607  1
