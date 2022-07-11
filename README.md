@@ -40,5 +40,6 @@ Publications
 ------------
 If you use this code, please cite:
 
-Geun Ho Gu, Jidon Jang, Juhwan Noh, Aron Walsh, and Yousung Jung. Perovskite Synthesizability using Graph Neural Networks, In preparation
+Geun Ho Gu, Jidon Jang, Juhwan Noh, Aron Walsh & Yousung Jung, Perovskite synthesizability using graph neural networks, npj Computational Materials volume 8, Article number: 71 (2022)
+
 
