@@ -17,7 +17,7 @@ from glob import glob
 import csv
 
 def main():
-    data_path= './data4prediction'
+    data_path= './data'
     
     # Best Hyperparameters
     atom_fea_len = 64
