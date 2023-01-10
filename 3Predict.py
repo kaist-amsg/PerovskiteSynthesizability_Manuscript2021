@@ -62,7 +62,7 @@ def main():
     json.dump([mpids,outputs,target,Bs_mean],open('predict/%s.json'%(data_path[3:].replace('/','_')),'w'))
     '''
     outputs = []
-    for i,p in enumerate(sorted(glob('weights/*%s_*'%data_path[10:]))):
+    for i,p in enumerate(sorted(glob('weights/*_*'))):
         print('Loading model',p)
         model.load_state_dict(torch.load(p))
         output,target,mpids = use_model(loader,model,i)
