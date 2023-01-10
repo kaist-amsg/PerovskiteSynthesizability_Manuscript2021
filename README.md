@@ -27,7 +27,7 @@ In the ./data folder, we have all raw crystal data in cif format. The source of 
 
 Guide
 -----
-1PU_Split.py splits the data (splits_Perov_All.json) in accordance to the inductive PU learning method. 2Train.py trains 100 PU learning model. The model weights trained with MP data is in base_weights, which are then transferred and retrained, weight of which are saved in weights folder. 3Predict.py makes prediction to all the data, which is summarized in the file "prediction.csv."
+1PU_Split.py splits the data (splits_Perov_All.json) in accordance to the inductive PU learning method. 2Train.py trains 100 PU learning model. The model weights trained with MP data is in base_weights, which are then transferred and retrained, weight of which are saved in weights folder. 3Predict.py makes prediction to all the data, which is summarized in the file "prediction.csv." For making new prediction, use 4New_Predict.py, and put test data in data4prediction folder. The result will be summarized in prediction.csv.
 
 - ./data folder contains crystal data (*.cif), elemental combination of each crystal file (Perov_All_ABC.json), and the source of each cif file (cif_sources.json), and the icsd label (id_prop.csv).
 - ./gcnn folder contains the python module for data preprocessing and model construction.
